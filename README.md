@@ -1,6 +1,6 @@
 ## Queue-simulator
 
-###Queue simulator using pseudorandom generated numbers.
+### Queue simulator using pseudorandom generated numbers.
 
 The queue simulator is a precise simulator with constant switching seeds that generates pseudorandom queues simulations, it's characteristics are:
 
