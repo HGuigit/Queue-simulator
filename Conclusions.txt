@@ -1,0 +1,47 @@
+ ---- DISCUSSÃO SOBRE OS RESULTADOS OBTIDOS NA PARTE 2 DO SIMULADOR DE FILAS --- Guilherme de Souza Pinto da Silva
+
+Na simulação utilizada foram usados 500 sistemas como simulação, cada sistema possuindo 2,3,4 ou 5 caixas,
+cada caixa possuindo sua própria fila, foi calculado assim as médias de tempo de espera na fila e tempo gasto no sistema e os
+valores obtidos para os 500 sistemas são listados a seguir:
+
+
+---- 5 Caixas ----
+
+Tempo de espera Médio no sistema: 11.1242837636941
+
+Tempo Médio gasto no sistema: 14.348542118348348
+
+---- 4 Caixas ----
+
+Tempo de espera Médio no sistema: 15.756610052200942
+
+Tempo Médio gasto no sistema: 18.87513080923567
+
+---- 3 Caixas ----
+
+Tempo de espera Médio no sistema: 21.860862705337887
+
+Tempo Médio gasto no sistema: 24.983620366979412
+
+
+---- 2 Caixas ----
+
+Tempo de espera Médio no sistema: 35.82572160615189
+
+Tempo Médio gasto no sistema: 39.51979295908886
+
+
+Podemos observar e concluir pelos experimentos para cada caso que conforme o número de caixas diminui
+o tempo de espera médio nas filas do sistema aumenta, e portanto quanto mais caixas menos um cliente tem que esperar na fila.
+Também é possivel observar que o tempo médio gasto no sistema aumenta conforme menos caixas conforme esperado pois esse tempo
+é decorrente do tempo de espera médio em cada fila.
+
+Tais observações são plausíveis pois com o aumento dos caixas os clientes são melhores distribuidos entre as filas
+de cada caixa e portanto o tempo de espera diminui.
+
+
+
+
+
+
+
